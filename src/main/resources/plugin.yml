@@ -1,0 +1,7 @@
+name: BetterTags
+version: '${project.version}'
+main: me.psikuvit.bettertags.BetterTags
+api-version: 1.13
+
+commands:
+  titres:
